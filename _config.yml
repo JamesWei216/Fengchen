@@ -23,13 +23,13 @@ repository               : "jameswei216.github.io/Fengchen/"
 author:
   # Biographic information
   avatar           : "James.png"
-  name             : "Your Sidebar Name"
+  name             : "James"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD candidate"
+  location         : "Brighton, UK"
+  employer         : "University of Sussex"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fw216@sussex.ac.uk" 
 
   # Academic websites
   academia         : # URL
