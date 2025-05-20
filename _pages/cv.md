@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Engineering, University of Sussex, 2025 (expected)
+* M.S. in Robotics and Autonomous Systems, University of Sussex, 2020
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+#Work experience
+#======
+#* Spring 2024: Academic Pages Collaborator
+#  * GitHub University
+#  * Duties includes: Updates and improvements to template
+#  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#* Fall 2015: Research Assistant
+#  * GitHub University
+#  * Duties included: Merging pull requests
+#  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#* Summer 2015: Research Assistant
+#  * GitHub University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB
+* C
 
-Publications
+Selected Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * Fengchen Wei, Weiji Wang. SCCA-YOLO: A Spatial and Channel Collaborative Attention Enhanced YOLO Network for Highway Autonomous Driving Perception System. Scientific Reports. 2025
+ * Fengchen Wei, Weiji Wang. GS-YoloNet: A Lightweight Network for Detection, Tracking, and Distance Estimation on Highways. VTC2024-Spring
+ * Fengchen Wei, Weiji Wang. A Method for Designing the Perception Module of Autonomous Vehicles Using Stereo Depth and Semantic Segmentation. ICCAS 2024
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewers for Journal: IET Intelligent Transport Systems
+* Conference: VTC2024, IWQoS2024, ICONIP2024, M2VIP2024, ICARCV2024, ICNSC2024.
