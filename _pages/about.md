@@ -13,4 +13,4 @@ PhD candidate at University of Sussex(Dynamics, Control and Vehicle Research Gro
 Visiting student at Tsinghua University (School of Vehicle and Mobility).
 
 
-You can find my CV here: [Fengchen's Resume](../assets/Fengchen_resume.pdf).
+You can find my CV here: [Fengchen's Resume](../assets/Fengchen_s_Resume.pdf).
