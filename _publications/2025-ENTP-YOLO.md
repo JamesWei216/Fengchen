@@ -2,7 +2,7 @@
 title: "ENTP-YOLO: An Enhanced Night-Time Perception Yolo Network for Ground Vehicle and Pedestrian Detection Based on Infrared Images"
 collection: publications
 category: manuscripts
-#permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2025-ENTP-YOLO
 excerpt: 'This paper is about object detection.'
 date: 2025
 venue: 'Scientific Reports'
