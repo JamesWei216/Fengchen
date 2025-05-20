@@ -2,7 +2,7 @@
 title: "A Method for Designing the Perception Module of Autonomous Vehicles Using Stereo Depth and Semantic Segmentation"
 collection: publications
 category: conferences
-#permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-A Method
 excerpt: 'This paper is about safety estimation.'
 date: 2024
 venue: '2024 24th International Conference on Control, Automation and Systems (ICCAS)'
