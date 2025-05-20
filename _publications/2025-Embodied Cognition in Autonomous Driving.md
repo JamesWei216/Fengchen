@@ -2,7 +2,7 @@
 title: "Embodied Cognition in Autonomous Driving: A Framework for Integrated Perception and Ego-State Estimation"
 collection: publications
 category: conferences
-#permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2025-Embodied Cognition in Autonomous Driving
 excerpt: 'This paper is about safety estimation.'
 date: 2025
 venue: '2025 25th International Conference on Control, Automation and Systems (ICCAS)'
