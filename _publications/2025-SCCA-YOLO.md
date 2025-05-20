@@ -2,7 +2,7 @@
 title: "SCCA-YOLO: A Spatial and Channel Collaborative Attention Enhanced YOLO Network for Highway Autonomous Driving Perception System"
 collection: publications
 category: manuscripts
-#permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-SCCA-YOLO
 excerpt: 'This paper is about object detection.'
 date: 2025
 venue: 'Scientific Reports'
